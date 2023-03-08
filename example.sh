@@ -1,0 +1,3 @@
+example=hello
+echo $example
+
